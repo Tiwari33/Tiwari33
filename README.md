@@ -3,6 +3,8 @@
 <h1 align="center">Hi 👋, I'm Nitesh Kumar Tiwari</h1>
 <h3 align="center">Aspiring Data Analyst/Business Analyst from India</h3>
 
+<img align="right" alt="coding" width="300" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fcat-work-gif-cat-work-typing-discover-share-gifs--421086633919347532%2F&psig=AOvVaw1rBgBhXx-8CNnfTI1swTH1&ust=1726146423642000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqGAoTCJDi9dT6uogDFQAAAAAdAAAAABC8AQ">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tiwari33&label=Profile%20views&color=0e75b6&style=flat" alt="tiwari33" /> </p>
 
 - 🔭 I’m currently working on **Python,SQL,Power BI,Excel,Tableau,Machine Learning**
