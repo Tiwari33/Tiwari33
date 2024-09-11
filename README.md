@@ -1,3 +1,5 @@
+![logo](https://github.com/Tiwari33/Tiwari33/blob/main/Tiwari.jpeg)
+
 <h1 align="center">Hi 👋, I'm Nitesh Kumar Tiwari</h1>
 <h3 align="center">Aspiring Data Analyst/Business Analyst from India</h3>
 
